@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "84356748573",
+    "firebase_url": "https://ar-locator-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ar-locator",
+    "storage_bucket": "ar-locator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84356748573:android:c47e8cfd1b0e848b8abdf4",
+        "android_client_info": {
+          "package_name": "com.example.ar_locator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84356748573-l3fnpoldaqtbrmkiv69ef9q7k3l0av74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHvW0EFdnmE9jiWJOnyZ5rWcHAYOHqRiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84356748573-l3fnpoldaqtbrmkiv69ef9q7k3l0av74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "84356748573-a107bvv0q423hrp20mg5dik1iu11gful.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dijstraTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84356748573:android:26199f55f203f4f98abdf4",
+        "android_client_info": {
+          "package_name": "com.example.ar_nav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84356748573-l3fnpoldaqtbrmkiv69ef9q7k3l0av74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHvW0EFdnmE9jiWJOnyZ5rWcHAYOHqRiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84356748573-l3fnpoldaqtbrmkiv69ef9q7k3l0av74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "84356748573-a107bvv0q423hrp20mg5dik1iu11gful.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dijstraTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84356748573:android:a8f32282689c0ca38abdf4",
+        "android_client_info": {
+          "package_name": "com.example.dijstra_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84356748573-l3fnpoldaqtbrmkiv69ef9q7k3l0av74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHvW0EFdnmE9jiWJOnyZ5rWcHAYOHqRiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84356748573-l3fnpoldaqtbrmkiv69ef9q7k3l0av74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "84356748573-a107bvv0q423hrp20mg5dik1iu11gful.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dijstraTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -74,7 +74,9 @@ class _NavigationScreenState extends State<NavigationScreen> {
             child: Padding(
               padding: const EdgeInsets.all(16),
               child: FloatingActionButton(
-                onPressed: () {},
+                onPressed: () {
+                  getUserLocation();
+                },
                 child: const Icon(Icons.navigation),
               ),
             ),
